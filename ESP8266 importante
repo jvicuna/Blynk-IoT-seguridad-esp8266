@@ -1,3 +1,8 @@
+Link coninformación:
+https://randomnerdtutorials.com/esp8266-pinout-reference-gpios/
+
+
+
 GPIOs connected to the Flash Chip
 GPIO6 to GPIO11 are usually connected to the flash chip in ESP8266 boards. So, these pins are not recommended to use.
 
